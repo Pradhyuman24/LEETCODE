@@ -14,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pradhyuman24/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## String
+|  |
+| ------- |
+| [1678-goal-parser-interpretation](https://github.com/Pradhyuman24/LEETCODE/tree/master/1678-goal-parser-interpretation) |
 <!---LeetCode Topics End-->
