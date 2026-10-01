@@ -18,4 +18,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1678-goal-parser-interpretation](https://github.com/Pradhyuman24/LEETCODE/tree/master/1678-goal-parser-interpretation) |
+| [1768-merge-strings-alternately](https://github.com/Pradhyuman24/LEETCODE/tree/master/1768-merge-strings-alternately) |
+## Two Pointers
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/Pradhyuman24/LEETCODE/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
