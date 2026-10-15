@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Pradhyuman24/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pradhyuman24/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0283-move-zeroes](https://github.com/Pradhyuman24/LEETCODE/tree/master/0283-move-zeroes) |
 | [1002-find-common-characters](https://github.com/Pradhyuman24/LEETCODE/tree/master/1002-find-common-characters) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Pradhyuman24/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Math
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/Pradhyuman24/LEETCODE/tree/master/0283-move-zeroes) |
 | [1768-merge-strings-alternately](https://github.com/Pradhyuman24/LEETCODE/tree/master/1768-merge-strings-alternately) |
 ## Hash Table
 |  |
