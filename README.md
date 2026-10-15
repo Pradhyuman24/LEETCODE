@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pradhyuman24/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1002-find-common-characters](https://github.com/Pradhyuman24/LEETCODE/tree/master/1002-find-common-characters) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Pradhyuman24/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Math
 |  |
@@ -17,10 +18,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1002-find-common-characters](https://github.com/Pradhyuman24/LEETCODE/tree/master/1002-find-common-characters) |
 | [1678-goal-parser-interpretation](https://github.com/Pradhyuman24/LEETCODE/tree/master/1678-goal-parser-interpretation) |
 | [1768-merge-strings-alternately](https://github.com/Pradhyuman24/LEETCODE/tree/master/1768-merge-strings-alternately) |
 ## Two Pointers
 |  |
 | ------- |
 | [1768-merge-strings-alternately](https://github.com/Pradhyuman24/LEETCODE/tree/master/1768-merge-strings-alternately) |
+## Hash Table
+|  |
+| ------- |
+| [1002-find-common-characters](https://github.com/Pradhyuman24/LEETCODE/tree/master/1002-find-common-characters) |
 <!---LeetCode Topics End-->
